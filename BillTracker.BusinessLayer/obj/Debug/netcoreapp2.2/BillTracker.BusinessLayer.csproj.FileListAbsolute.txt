@@ -1,0 +1,41 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.csproj.CopyComplete
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.csproj.CopyComplete
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.deps.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.BusinessLayer.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.Entities.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\bin\Debug\netcoreapp2.2\BillTracker.Entities.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.AssemblyInfo.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.csproj.CopyComplete
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.BusinessLayer\obj\Debug\netcoreapp2.2\BillTracker.BusinessLayer.pdb

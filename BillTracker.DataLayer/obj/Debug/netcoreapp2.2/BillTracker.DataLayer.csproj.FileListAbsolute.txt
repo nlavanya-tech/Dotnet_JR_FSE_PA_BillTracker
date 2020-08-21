@@ -1,0 +1,26 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeTemplate\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.deps.json
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.DataLayer\bin\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.csprojAssemblyReference.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.AssemblyInfoInputs.cache
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.AssemblyInfo.cs
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.dll
+C:\Users\ARVIND\Desktop\IIHT PRJ\versa\BillTracker_CodeTemplateRepo-master\BillTracker_CodeTemplateRepo-master\BillTracker\BillTracker.DataLayer\obj\Debug\netcoreapp2.2\BillTracker.DataLayer.pdb

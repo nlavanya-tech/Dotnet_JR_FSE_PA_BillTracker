@@ -1,0 +1,414 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Test\\BillTracker.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.BusinessLayer\\BillTracker.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.BusinessLayer\\BillTracker.BusinessLayer.csproj",
+        "projectName": "BillTracker.BusinessLayer",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.BusinessLayer\\BillTracker.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.DataLayer\\BillTracker.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.DataLayer\\BillTracker.DataLayer.csproj"
+              },
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.DataLayer\\BillTracker.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.DataLayer\\BillTracker.DataLayer.csproj",
+        "projectName": "BillTracker.DataLayer",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.DataLayer\\BillTracker.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj",
+        "projectName": "BillTracker.Entities",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Test\\BillTracker.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Test\\BillTracker.Test.csproj",
+        "projectName": "BillTracker.Test",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Test\\BillTracker.Test.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.BusinessLayer\\BillTracker.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.BusinessLayer\\BillTracker.BusinessLayer.csproj"
+              },
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.DataLayer\\BillTracker.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.DataLayer\\BillTracker.DataLayer.csproj"
+              },
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.Entities\\BillTracker.Entities.csproj"
+              },
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker\\BillTracker.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker\\BillTracker.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker\\BillTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker\\BillTracker.csproj",
+        "projectName": "BillTracker",
+        "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker\\BillTracker.csproj",
+        "packagesPath": "C:\\Users\\ARVIND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ARVIND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.BusinessLayer\\BillTracker.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\ARVIND\\Desktop\\IIHT PRJ\\versa\\BillTracker_CodeTemplateRepo-master\\BillTracker_CodeTemplateRepo-master\\BillTracker\\BillTracker.BusinessLayer\\BillTracker.BusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
